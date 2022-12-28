@@ -149,3 +149,30 @@ http://204.199.109.34:45000/play/a06g
 http://204.199.109.34:45000/play/a06y
 #EXTINF:-1,Win Sports+ HD
 http://204.199.109.34:45000/play/a07u
+
+#EXTINF:-1 group-title="SERIES" tvg-name="Severance" tvg-logo="http://51.222.152.107:81/posters/1645239446481.jpg",Severance T01E01
+https://vod.lamtv.tv/ene/20220218044.mp4
+
+#EXTINF:-1 group-title="SERIES" tvg-name="Severance" tvg-logo="http://51.222.152.107:81/posters/1645239446481.jpg",Severance T01E02
+https://vod.lamtv.tv/ene/20220218045.mp4
+
+#EXTINF:-1 group-title="SERIES" tvg-name="Severance" tvg-logo="http://51.222.152.107:81/posters/1645239446481.jpg",Severance T1E03 In Perpetuity
+https://vod.lamtv.tv/ene/20220225023.mp4
+
+#EXTINF:-1 group-title="SERIES" tvg-name="Severance" tvg-logo="http://51.222.152.107:81/posters/1645239446481.jpg",Severance T01E04 The You You Are
+https://vod.lamtv.tv/ene/20220304029.mp4
+
+#EXTINF:-1 group-title="SERIES" tvg-name="Severance" tvg-logo="http://51.222.152.107:81/posters/1645239446481.jpg",Severance T01E05 The Grim Barbarity of Optics and Design
+https://vod.lamtv.tv/ene/20220312028.mp4
+
+#EXTINF:-1 group-title="SERIES" tvg-name="Severance" tvg-logo="http://51.222.152.107:81/posters/1645239446481.jpg",Severance T01E06 Hide and Seek
+https://vod.lamtv.tv/ene/20220318073.mp4
+
+#EXTINF:-1 group-title="SERIES" tvg-name="Severance" tvg-logo="http://51.222.152.107:81/posters/1645239446481.jpg",Severance T01E07 Defiant Jazz
+https://vod.lamtv.tv/ene/20220326008.mp4
+
+#EXTINF:-1 group-title="SERIES" tvg-name="Severance" tvg-logo="http://51.222.152.107:81/posters/1645239446481.jpg",Severance T01E08 What's for Dinner?
+https://vod.lamtv.tv/ene/20220401029.mp4
+
+#EXTINF:-1 group-title="SERIES" tvg-name="Severance" tvg-logo="http://51.222.152.107:81/posters/1645239446481.jpg",Severance T01E09 The We We Are
+https://vod.lamtv.tv/ene/20220408031.mp4
