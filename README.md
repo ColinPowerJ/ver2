@@ -1,7 +1,4 @@
 #EXTM3U
-Playlist
-Playlist Finder
-ayer a las 16:43
 
 #EXTINF:-1,A&E HD
 http://181.39.202.98:9993/play/a164/index.m3u8
