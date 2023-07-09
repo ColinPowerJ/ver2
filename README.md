@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,Transformer
+http://00322.xyz:8000/movie/rances123/9IFBBCRBIX/162752.mkv
+
+#EXTINF:-1,El Pacto
+http://00322.xyz:8000/movie/rances123/9IFBBCRBIX/162224.mkv
+
 #EXTINF:-1,A&E HD
 http://181.39.202.98:9993/play/a164/index.m3u8
 #EXTINF:-1,ATRES SERIES HD
