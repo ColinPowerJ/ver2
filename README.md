@@ -8,6 +8,26 @@ http://00322.xyz:8000/movie/rances123/9IFBBCRBIX/162752.mkv
 
 #EXTINF:-1,El Pacto
 http://00322.xyz:8000/movie/rances123/9IFBBCRBIX/162224.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : EL CHAPULIN COLORADO" tvg-logo="https://1.bp.blogspot.com/-fI4RG5cdxTg/X-9qP_F8p4I/AAAAAAAA7EY/VtoAfNfsCiQa_1OA-022gx7Zt6TadR-8QCLcBGAsYHQ/s1080/cc.png" group-title="24/7",24/7 : EL CHAPULIN COLORADO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87396.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : LOS SIMPSONS 1" tvg-logo="https://static.wixstatic.com/media/25b08b_c6fc776118644dc8bd86431a9201681e~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_c6fc776118644dc8bd86431a9201681e~mv2.png" group-title="24/7",24/7 : LOS SIMPSONS 1
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/115359.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : LOS SIMPSONS 2" tvg-logo="https://static.wixstatic.com/media/25b08b_c6fc776118644dc8bd86431a9201681e~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_c6fc776118644dc8bd86431a9201681e~mv2.png" group-title="24/7",24/7 : LOS SIMPSONS 2
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/117797.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 : SUPERVIVENCIA AL DESNUDO" tvg-logo="https://static.wixstatic.com/media/25b08b_68fa7c554e554bc4930639bd929b87ec~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_68fa7c554e554bc4930639bd929b87ec~mv2.png" group-title="24/7",24/7 : SUPERVIVENCIA AL DESNUDO
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/339678.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="VE : TVES" tvg-logo="https://static.wixstatic.com/media/25b08b_3509af3b105e4e4698058c677d90c595~mv2.png/v1/fill/w_562,h_562,al_c,usm_0.66_1.00_0.01/25b08b_3509af3b105e4e4698058c677d90c595~mv2.png" group-title="VENEZUELA",VE : TVES
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/166499.ts
+#EXTINF:-1 tvg-id="" tvg-name="VE : VE PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="VENEZUELA",VE : VE PLUS
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/141575.ts
+#EXTINF:-1 tvg-id="" tvg-name="VE : VENEVISION" tvg-logo="https://1.bp.blogspot.com/-aOjUB-QIW74/YN3Nb6s-SaI/AAAAAAAA-IM/TJdbAY2f7XwriDXWBF8fEfM-s0re8IC1wCLcBGAsYHQ/s1080/VTV.png" group-title="VENEZUELA",VE : VENEVISION
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/134989.ts
+
 ------------------------TV LIVE-----------------------------
 #EXTINF:-1,A&E HD
 http://38.41.8.1:8000/play/a006
