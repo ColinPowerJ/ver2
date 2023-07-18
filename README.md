@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="El Pacto" tvg-logo="" group-title="CINEMAVOD - ESTRENOS Y RECIENTES",El Pacto
 http://00322.xyz:8000/movie/rances123/9IFBBCRBIX/162224.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="2Transformers: El despertar de las bestias - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu24fXpro7jx4XFlgEWwElW1kgW.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Transformers: El despertar de las bestias - 2023
+https://newyorkstream.ddns.net/iptv/peliculas/NUEVAS%2038/Transformers%20Rise%20of%20the%20Beasts%20(2023).Cam.dual-lat.cinecalidad.com.mx.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Transformers: El despertar de las bestias - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu24fXpro7jx4XFlgEWwElW1kgW.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Transformers: El despertar de las bestias - 2023
 http://50.7.66.234:8080/movie/rodrigosotto/RS7319427/1168181.mkv
 
