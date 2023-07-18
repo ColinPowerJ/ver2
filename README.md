@@ -1,7 +1,16 @@
 #EXTM3U
-
-#EXTINF:-1,El Pacto
+#EXTINF:-1 tvg-id="" tvg-name="El Pacto" tvg-logo="" group-title="CINEMAVOD - ESTRENOS Y RECIENTES",El Pacto
 http://00322.xyz:8000/movie/rances123/9IFBBCRBIX/162224.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: El despertar de las bestias - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu24fXpro7jx4XFlgEWwElW1kgW.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Transformers: El despertar de las bestias - 2023
+http://50.7.66.234:8080/movie/rodrigosotto/RS7319427/1168181.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Flash (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Flash (2023)
+http://50.7.66.234:8080/movie/rodrigosotto/RS7319427/1168563.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones y el dial del destino - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Indiana Jones y el dial del destino - 2023
+http://50.7.66.234:8080/movie/rodrigosotto/RS7319427/1167558.mkv
+
 -------------------------------livetv CINEMA----------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="A&E  SD" tvg-logo="" group-title="CINEMA",A&E  SD
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/214
